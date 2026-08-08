@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNUO User Flow"
+  short_description: "Design UNUO user journeys"
+  default_prompt: "Use $user-flow to map an UNUO user journey."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "UKNOW Conversation Transfer"
+  short_description: "Transfer UKNOW conversation context"
+  default_prompt: "Use $conversation-transfer to prepare a UKNOW conversation transfer."

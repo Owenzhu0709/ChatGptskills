@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNUO Monetization"
+  short_description: "Design UNUO monetization rules"
+  default_prompt: "Use $monetization to evaluate UNUO monetization."

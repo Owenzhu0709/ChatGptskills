@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPC Workflow"
+  short_description: "Design controlled GPC workflows"
+  default_prompt: "Use $workflow to define a GPC workflow."

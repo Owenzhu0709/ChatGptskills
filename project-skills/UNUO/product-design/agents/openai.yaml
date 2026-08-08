@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNUO Product Design"
+  short_description: "Design UNUO product experiences"
+  default_prompt: "Use $product-design to define an UNUO product experience."

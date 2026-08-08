@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Context"
+  short_description: "Maintain concise project context"
+  default_prompt: "Use $project-context to update the project context."

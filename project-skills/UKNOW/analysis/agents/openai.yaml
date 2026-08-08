@@ -1,0 +1,4 @@
+interface:
+  display_name: "UKNOW Analysis"
+  short_description: "Analyze UKNOW product evidence"
+  default_prompt: "Use $analysis to analyze a UKNOW product question."

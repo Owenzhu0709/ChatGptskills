@@ -1,0 +1,4 @@
+interface:
+  display_name: "UKNOW Knowledge Management"
+  short_description: "Organize UKNOW knowledge assets"
+  default_prompt: "Use $knowledge-management to structure UKNOW knowledge."
