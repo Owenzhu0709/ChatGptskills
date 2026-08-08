@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Create a structured project handoff"
+  default_prompt: "Use $handoff to prepare a verified project handoff."

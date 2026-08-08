@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPC Dashboard"
+  short_description: "Define GPC dashboard views"
+  default_prompt: "Use $dashboard to design a GPC operating dashboard."

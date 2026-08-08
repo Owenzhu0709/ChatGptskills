@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNUO Business Model"
+  short_description: "Develop the UNUO business model"
+  default_prompt: "Use $business-model to evaluate an UNUO business model decision."

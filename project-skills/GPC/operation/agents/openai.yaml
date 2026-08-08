@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPC Operation"
+  short_description: "Run scoped GPC operations"
+  default_prompt: "Use $operation to prepare a GPC operating cycle."

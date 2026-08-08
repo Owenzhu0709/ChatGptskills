@@ -1,0 +1,4 @@
+interface:
+  display_name: "UNUO Mentor System"
+  short_description: "Design the UNUO mentor system"
+  default_prompt: "Use $mentor-system to develop the UNUO mentor system."

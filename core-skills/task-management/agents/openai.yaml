@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Management"
+  short_description: "Track scoped project execution"
+  default_prompt: "Use $task-management to organize the next work block."

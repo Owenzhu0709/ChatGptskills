@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision Log"
+  short_description: "Record durable project decisions"
+  default_prompt: "Use $decision-log to record this project decision."
