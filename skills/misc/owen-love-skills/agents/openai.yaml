@@ -1,0 +1,4 @@
+interface:
+  display_name: "欧文 love skills"
+  short_description: "恋爱分析、多语言沟通、训练与反操控防御"
+  default_prompt: "使用 $owen-love-skills 帮我梳理情绪、分析关系，并给出一个尊重边界的下一步。"

@@ -7,4 +7,4 @@ Tools I keep around but rarely use — not promoted in the plugin.
 - **[scaffold-exercises](./scaffold-exercises/SKILL.md)** — Create exercise directory structures with sections, problems, solutions, and explainers.
 - **[setup-pre-commit](./setup-pre-commit/SKILL.md)** — Set up Husky pre-commit hooks with lint-staged, Prettier, type checking, and tests.
 
-- **[goutoujunshi](./goutoujunshi/SKILL.md)** — Chinese relationship and dating coach for emotional support, relationship analysis, conversation drafting, and next-step planning.
+- **[owen-love-skills](./owen-love-skills/SKILL.md)** — 欧文 love skills：关系分析、多语言沟通、训练模拟与 PUA/心理控制防御。
