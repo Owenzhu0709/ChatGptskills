@@ -26,7 +26,7 @@ description: >-
 | 模式 | 用途 | 主要参考 |
 | --- | --- | --- |
 | `analyze` | 聊天记录、截图、暧昧信号、投入失衡、关系阶段和多人比较 | `references/01-evidence-and-relationship-analysis.md` |
-| `reply` | 给一条可以直接发送的中文、英文或其他语言消息 | `references/02-communication-and-dating.md`、`03-multilingual-coach.md` |
+| `reply` | 给一条可以直接发送的中文、英文或其他语言消息 | `references/02-communication-and-dating.md`、`references/03-multilingual-coach.md` |
 | `date` | 认识、邀约、第一次见面、确认关系、冲突修复和体面退出 | `references/02-communication-and-dating.md` |
 | `train` | 角色扮演、对话演练、即时提示和事后复盘 | `references/04-training-simulator.md` |
 | `defense` | 识别 PUA、心理压制、间歇性强化、煤气灯、孤立、监控和财务/性控制 | `references/05-anti-pua-defense.md` |
@@ -67,4 +67,6 @@ description: >-
 
 ## 按需加载
 
-默认只读取当前问题需要的 1–3 份参考，不批量加载整个套件。来源、许可证和整合范围见 `references/08-source-map.md`。原始“狗头军师”文件保存在 `modules/goutoujunshi/`，用于兼容和追溯；日常调用以本套件根目录规则为准。
+默认只读取当前问题需要的参考，不批量加载整个套件。用户要求保存、更新、查看或删除关系档案时，读取 `references/07-privacy-and-memory.md`。来源、许可证和整合范围见 `references/08-source-map.md`。
+
+需要更深入的知识或实战案例时，按 `modules/goutoujunshi/SKILL.md` 的索引选择相关参考；原始模块保留用于兼容和追溯，日常调用以本套件根目录规则为准，不重复安装为第二个 skill。
